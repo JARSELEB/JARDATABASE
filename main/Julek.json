@@ -1,0 +1,14 @@
+{
+  "tokens": [
+    {
+      "token": "ABC:123",
+      "password": "HASH_1",
+      "status": "aktive"
+    },
+    {
+      "token": "ABD:123",
+      "password": "HASH_2",
+      "status": "aktive"
+    }
+  ]
+}
